@@ -21,3 +21,4 @@ venv/
 .vscode/
 .DS_Store
 *.pdf
+/config/airflow.cfg
